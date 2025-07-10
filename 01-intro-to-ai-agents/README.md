@@ -50,6 +50,8 @@ Let's break this definition into smaller parts:
 
 **Memory+Knowledge** - Memory can be short-term in the context of the conversation between the user and the agent. Long-term, outside of the information provided by the environment, AI Agents can also retrieve knowledge from other systems, services, tools, and even other agents. In the travel agent example, this knowledge could be the information on the user's travel preferences located in a customer database.
 
+-------- done till here
+
 ### The different types of agents
 
 Now that we have a general definition of AI Agents, let us look at some specific agent types and how they would be applied to a travel booking AI agent.
